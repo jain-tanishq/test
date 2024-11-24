@@ -1,2 +1,2 @@
 console.log("shree ganesha")
-console.log("i m a new programmer")
+console.log("i m a programmer")
